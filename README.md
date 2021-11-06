@@ -1,10 +1,9 @@
 yoga
-
 ===
 
 ヨガスタジオのランディングページの自主制作です。
 
-##デモサイト
+## デモサイト
 
 [見本サイト](https://yasuko-yoga-portfolio.herokuapp.com/)
 
